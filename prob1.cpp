@@ -1,7 +1,7 @@
  #include<iostream>
 using namespace std;
 
-int main()
+int  main()
 {                                      //addition of two numbers 
     int num1,num2;
     cout<<"The value of num1:"<<endl;
